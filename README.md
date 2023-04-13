@@ -5,15 +5,15 @@ Getting Started
 
 To get started with the Movie List Site, you'll need to do the following:
 
-    Clone the repository to your local machine:
+    # Clone the repository to your local machine:
 
     bash
 
-git clone https://github.com/swrpat/movie-list-site.git
+    git clone https://github.com/swrpat/movie-list-site.git
 
 Install the dependencies:
 
-pip install requirements.txt
+    pip install requirements.txt
 
 Start the server:
 
