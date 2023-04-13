@@ -5,23 +5,21 @@ Getting Started
 
 To get started with the Movie List Site, you'll need to do the following:
 
-    # Clone the repository to your local machine:
+1. Clone the repository to your local machine:
 
-    bash
+        git clone https://github.com/swrpat/movie-list-site.git
 
-    git clone https://github.com/swrpat/movie-list-site.git
+2. Install the dependencies:
 
-Install the dependencies:
+        pip install requirements.txt
 
-    pip install requirements.txt
+3. Start the server:
 
-Start the server:
+        python main.py
 
-    python main.py
+4. Open a web browser and navigate to http://localhost:5000 to view the app.
 
-    Open a web browser and navigate to http://localhost:5000 to view the app.
-
-Usage
+## Usage
 
 Once you have the app up and running, you can start using it to create your movie list. Here are the main features of the app:
 Adding a Movie
