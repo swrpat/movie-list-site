@@ -34,3 +34,8 @@ If you need to update the information for a movie on your list, click the "Edit"
 ### Deleting a Movie
 
 If you no longer want to keep a movie on your list, click the "Delete" button next to the movie's title. There is no confirmation prompt so be careful!
+
+
+## Afterwords
+
+This project was made as part of a python course by Angela Yu. I make the app's logic with minimal guidance from the lesson but the HTML templates are mostly pre-populated.
