@@ -1,7 +1,8 @@
 # Movie List Site
 
 Welcome to the Movie List Site! This is a simple web application that allows you to create a list of your favorite movies. You can add new movies, edit existing ones, and delete movies that you no longer want to keep on your list.
-Getting Started
+
+## Getting Started
 
 To get started with the Movie List Site, you'll need to do the following:
 
